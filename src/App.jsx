@@ -2,8 +2,6 @@ import './App.css';
 import WeatherForecast from './components/WeatherForecast/WeatherForecast.jsx'
 
 
-
-
 const App = () => {
 
   const weatherForecasts = [
